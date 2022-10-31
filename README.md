@@ -9,7 +9,7 @@ In this paper you will find  the result and the proof of the probability that l 
 Let $l \in \mathbb{N}^{\star}$, denote $\Omega = \left(
 {{\mathbb{N}^{\ast}}^{} }^{^{}} \right)^l$ , we consider the probability space $(\Omega, \mathcal{P} (\Omega), \mathbb{P})$ , where $\mathbb{P}$ is the probability mass function defined by:
 
-$\mathbb{P:}$$I \in \mathcal{P} (\Omega)$$\longmapsto$$\underset{n \rightarrow + \infty}{\lim}$$\frac{1}{n^l} \# \left( I \bigcap  \Omega_n \right)$
+$\mathbb{P:}$ $I \in \mathcal{P} (\Omega)$$\longmapsto$ $\underset{n \rightarrow + \infty}{\lim}$$\frac{1}{n^l} \# \left( I \bigcap  \Omega_n \right)$
 
   Où $\Omega_n = {\llbracket  1, n \rrbracket^{} }^{ l}$
 
