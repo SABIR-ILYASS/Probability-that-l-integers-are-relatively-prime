@@ -1,3 +1,7 @@
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
 # Probability-that-l-integers-are-relatively-prime
 
 In this paper you will find  the result and the proof of the probability that l integers are relatively prime where l is an integer.
